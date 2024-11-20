@@ -9,7 +9,8 @@
 
 # Text and Image Preprocessing with Transformers
 
-This guide demonstrates how to preprocess text and image data using Hugging Face Transformers and Datasets libraries.
+This repo contains code showing how to preprocess text and image data with Pytorch and pretrained Transformer models. 
+The code is taken from the official site of Hugginface regarding Transformers.
 
 ## Text Preprocessing
 
