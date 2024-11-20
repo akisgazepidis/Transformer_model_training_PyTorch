@@ -1,0 +1,9 @@
+# Ignore the entire test_trainer folder
+test_trainer/
+
+# Ignore all .bin and .pt files (common model weight files)
+*.bin
+*.pt
+
+# Optionally, ignore the training logs or temporary files if they exist
+*.log
