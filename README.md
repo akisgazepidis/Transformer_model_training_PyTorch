@@ -1,3 +1,8 @@
+# Transdormers architecture
+
+![Transformer Architecture](https://deepgram.com/_next/image?url=https%3A%2F%2Fwww.datocms-assets.com%2F96965%2F1684227303-2-transformers-explained.png&w=1920&q=75)
+
+
 # Text and Image Preprocessing with Transformers
 
 This guide demonstrates how to preprocess text and image data using Hugging Face Transformers and Datasets libraries.
