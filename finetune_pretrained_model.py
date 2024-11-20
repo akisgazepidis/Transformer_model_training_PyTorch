@@ -5,7 +5,7 @@ os.environ["TOKENIZERS_PARALLELISM"] = "false"
 dataset = load_dataset("yelp_review_full")
 # print(dataset["train"][100])
 
-#Add a pretrained tokenizer
+# Add a pretrained tokenizer
 from transformers import AutoTokenizer
 
 tokenizer = AutoTokenizer.from_pretrained("google-bert/bert-base-cased")
